@@ -4,7 +4,7 @@ kind: Task
 metadata:
   name: cleanup
 spec:
-  worspaces:
+  workspaces:
     - name: source
   steps:
     - name: remove
